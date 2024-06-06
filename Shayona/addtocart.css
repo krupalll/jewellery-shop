@@ -1,0 +1,14 @@
+.cart {
+    height: 250px;
+    width: 300px;
+    padding: 25px;
+    background-color: blanchedalmond;
+    float: right;
+    overflow: auto;
+
+}
+
+#hello,
+li {
+    margin: 10px;
+}
